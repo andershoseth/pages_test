@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "CompressionAlgorithms",
   "resources": {
-    "hash": "sha256-3cjibPw5VjpgVeoFE5ckewpuv7BNv/8OHPoRuhDq3YI=",
+    "hash": "sha256-1+2h61WszSNPnpWgWCKKF+QAAtV+a47wUX7Ih7biM04=",
     "jsModuleNative": {
-      "dotnet.native.8.0.8.xz2kyc0q3l.js": "sha256-LMS+lD3GeSU8nCCjdncaJTbYGyBjK2qlD2NZeq79ov4="
+      "dotnet.native.8.0.8.5hlns2id00.js": "sha256-LMS+lD3GeSU8nCCjdncaJTbYGyBjK2qlD2NZeq79ov4="
     },
     "jsModuleRuntime": {
       "dotnet.runtime.8.0.8.80cvijctdx.js": "sha256-0Dpj/NkVD5WqSC16ZvJLmlc38iv9+Je+umYBVOycPVU="
@@ -19,7 +19,7 @@
     "assembly": {
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "ChartJs.Blazor.wasm": "sha256-w+7LWVNvsBZXAZIl/fwpTkv1CwyMyYCQUFfFMgF1NuI=",
-      "CompressionAlgorithms.wasm": "sha256-KAN0Kk42UCasggXqM26dLdHS9iNaqmDg9gAFvvfR1/8=",
+      "CompressionAlgorithms.wasm": "sha256-mMLX3WlWX7nlkPLmYpIwgbLZVW9fQXaUgmeYD/kX7nc=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-AcCSAsiBNuXRh2JtxsFowNAaOUPJek4PxkBFEHxIxQc=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-MFw25H66vr1QKYdq5K57ypElvxfZGz67g5o0Q7B0eL0=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-XyPST+XDm2N6dDwFzGjcMGs0t9ZrFREy0DHQOSvJmWs=",
