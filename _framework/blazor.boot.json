@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "CompressionAlgorithms",
   "resources": {
-    "hash": "sha256-67wx/i8ejrUj3sguDVF6o3zaWtId39FCSO7/FrPWRSU=",
+    "hash": "sha256-3cjibPw5VjpgVeoFE5ckewpuv7BNv/8OHPoRuhDq3YI=",
     "jsModuleNative": {
-      "dotnet.native.8.0.8.42xns8e2wh.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
+      "dotnet.native.8.0.8.xz2kyc0q3l.js": "sha256-LMS+lD3GeSU8nCCjdncaJTbYGyBjK2qlD2NZeq79ov4="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.8.d9y56mzebf.js": "sha256-0Dpj/NkVD5WqSC16ZvJLmlc38iv9+Je+umYBVOycPVU="
+      "dotnet.runtime.8.0.8.80cvijctdx.js": "sha256-0Dpj/NkVD5WqSC16ZvJLmlc38iv9+Je+umYBVOycPVU="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-OcUTcd7qQceenWEF93409WZcaXp2qQbEyhdchog4RUE="
+      "dotnet.native.wasm": "sha256-xcB2IBMZr++OMd4PpcKnp6ELtOv8WYftLOSTqpQHwPE="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
